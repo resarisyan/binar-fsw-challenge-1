@@ -14,7 +14,7 @@ Welcome to the BCR (Binar Car Rental) Slicing Challenge 1 repository! This chall
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/BCR-Slicing-Challenge.git
+git clone https://github.com/resarisyan/binar-fsw-challenge-1.git
 ```
 
 2. **Navigate to the project directory:**
